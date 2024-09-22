@@ -5,11 +5,10 @@ Bem-Vindo ao meu Perfil
 Sou Estudante de Ciências da Computação na **Universidade Agostinho Neto (UAN)**. Tenho interesse nas áreas de **Desenvolvimento Front-End, Back-End, Programação Competitiva e Inteligência Artificial**.
 
 ## Conecte-se Comigo
-[![Perfil na DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3?style=for-the-badge)](https://www.dio.me/users/fredericogdpaiva)
+[![Perfil na DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3?style=for-the-badge)](https://www.dio.me/users/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfredo-baptista-99980a290/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor)](mailto:baptistaalfredo81@gmail.com)
-
 
 ## Habilidades 
 
@@ -51,3 +50,4 @@ Sou Estudante de Ciências da Computação na **Universidade Agostinho Neto (UAN
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FreddyBF&repo=social-links-profile&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FreddyBF/social-links-profile)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FreddyBF&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FreddyBF/dio-lab-open-source)
+
