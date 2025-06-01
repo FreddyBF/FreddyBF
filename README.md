@@ -2,8 +2,7 @@
 Olá!✋🏼😊  
 Bem-Vindo ao meu Perfil  
 
-Sou Estudante de Ciências da Computação na **Universidade Agostinho Neto (UAN)** e desenvolvedor backend especializado em **Node.js com Express**.  
-Também tenho conhecimento sólido em **Python**.  
+Sou Estudante de Ciências da Computação na **Universidade Agostinho Neto (UAN)** e desenvolvedor backend **Node.js com Express**.  
 
 Tenho interesse nas áreas de **Desenvolvimento Back-End, Programação Competitiva e Inteligência Artificial**.
 
@@ -17,8 +16,8 @@ Tenho interesse nas áreas de **Desenvolvimento Back-End, Programação Competit
 ### Linguagens de Programação  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascriptlogoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescriptlogoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ### Tecnologias Backend  
@@ -54,4 +53,5 @@ Tenho interesse nas áreas de **Desenvolvimento Back-End, Programação Competit
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FreddyBF&repo=social-links-profile&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FreddyBF/social-links-profile)  
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FreddyBF&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FreddyBF/dio-lab-open-source)  
+
 
