@@ -51,11 +51,18 @@ Sou apaixonado por transformar ideias complexas em sistemas confiáveis, perform
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FreddyBF&theme=dark&show_icons=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyBF&layout=compact&theme=dark" alt="Most Used Languages" height="170">
+
+  <a href="https://github.com/FreddyBF">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=FreddyBF&show_icons=true&theme=gruvbox&hide_title=true&hide_border=true&hide_rank=true" alt="GitHub Stats" />
+  </a>
+
+  <a href="https://github.com/FreddyBF">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreddyBF&layout=compact&theme=gruvbox&hide_border=true&langs_count=6" alt="Top Languages" />
+  </a>
+
 </div>
 
 ---
