@@ -2,16 +2,16 @@
 
 💻 **Desenvolvedor Backend | Java & Spring Boot | Node.js & Express**  
 🎓 **Estudante de Ciências da Computação – Universidade Agostinho Neto (UAN)**  
-🧠 **Entusiasta de Arquitetura de Software, Clean Code e APIs seguras**  
+🧠 **Entusiasta de Arquitetura de Software, Clean Code e APIs Rest seguras**  
 
-Sou apaixonado por transformar ideias complexas em sistemas confiáveis, performáticos e bem estruturados. Actualmente, me aprofundo em **Java com Spring Boot** e práticas de **Clean Code**, buscando excelência no desenvolvimento backend com foco em **modularidade, legibilidade e escalabilidade**.
+Sou apaixonado por transformar ideias complexas em sistemas confiáveis, performáticos e bem estruturados. Actualmente, me aprofundo em **Java com Spring Boot** e práticas de **Clean Architecture**, buscando excelência no desenvolvimento backend com foco em **modularidade, legibilidade e escalabilidade**.
 
 ---
 
 ## 🔍 Áreas de Interesse
 
-- ⚙️ Desenvolvimento Backend (Java, Spring Boot, Node.js)
-- 🧭 Arquitetura de Software & Design de APIs REST
+- ⚙️ Desenvolvimento Backend (Java, Spring Boot, Node.js, Nest.js)
+- 🧭 Arquitectura de Software & Design de APIs REST
 - 🧹 Clean Code & Boas Práticas
 - 🔐 Segurança e autenticação de APIs
 - 🧑‍💻 Programação Competitiva
@@ -42,13 +42,13 @@ Sou apaixonado por transformar ideias complexas em sistemas confiáveis, perform
 
 ---
 
-## 📚 Atualmente Estudando
+## 📚 Actualmente Estudando
 
 - ☕ **Java moderno com Spring Boot (REST APIs, JPA, Spring Security)**
-- 🧼 **Clean Code, SOLID e boas práticas de arquitetura**
+- 🧼 **Clean Architecture, Hexagonal Archetecture e boas práticas de arquitetura**
 - 🧠 **Design centrado no domínio (DDD) e separação de responsabilidades**
-- 🧪 **Testes automatizados, validações e autenticação JWT**
-
+- 🧪 **Testes automatizados**
+- 🐳 Containerização e deploy com Docker (Dockerfile, Compose, imagens e containers)
 ---
 
 ## 📊 GitHub Insights
@@ -80,4 +80,3 @@ Sou apaixonado por transformar ideias complexas em sistemas confiáveis, perform
     <img src="https://img.shields.io/badge/DIO.me-30A3DC?style=for-the-badge">
   </a>
 </div>
-
